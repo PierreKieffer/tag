@@ -58,8 +58,11 @@ if [ -z "$DESCRIBE_CURRENT_COMMIT" ];then
 	# Increase version 
 	if [ $RELEASE_TYPE = "major" ];then 
 		MAJOR=$((MAJOR+1))
+		MINOR=0
+		PATCH=0
 	elif [ $RELEASE_TYPE = "minor" ];then 
 		MINOR=$((MINOR+1))
+		PATCH=0
 	elif [ $RELEASE_TYPE = "patch" ];then 
 		PATCH=$((PATCH+1))
 	fi 

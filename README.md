@@ -34,7 +34,7 @@ tag
       Create tag
 ---------------------------
 
-Latest tag released : 0.2.0
+Latest tag released : 1.2.1
 
 Select release type :
 [ 1 ] major
@@ -45,17 +45,17 @@ Release type : major
 ```
 
 ```
-Create and push tag with version : 1.2.0
+Create and push tag with version : 2.0.0
 Do you want to continue ? [Y/n]
-Create tag 1.2.0 ...
-Push tag 1.2.0 ...
+Create tag 2.0.0 ...
+Push tag 2.0.0 ...
 Total 0 (delta 0), reused 0 (delta 0)
 To github.com:PierreKieffer/app.git
- * [new tag]         1.2.0 -> 1.2.0
-Tag 1.2.0 released
+ * [new tag]         2.0.0 -> 2.0.0
+Tag 2.0.0 released
 ---------------------------
-
 ```
+
 
 - Or create a tag directly with release type as argument : 
 ```
@@ -82,19 +82,6 @@ Associated tag version : 0.2.0
 
 ---------------------------
 ```
-
-- Find releases on Github repo 
-
-<div align="center">
-
-<img src="./assets/releases_1.png" width="400" />
-
-
-
-<img src="./assets/releases_2.png" width="600"/>
-
-</div>
-
 
 
 
