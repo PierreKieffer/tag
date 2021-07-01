@@ -13,12 +13,12 @@ Create tags to identify specific release version
 ---
 
 
-## About 
+### About 
 `tag` script sets the version number according to the type of release (major, minor, patch), and previous version numbers. 
 
 Tag version format : `MAJOR.MINOR.PATCH`. 
 
-## Usage
+### Usage
 - Add `tag` to PATH, for example : 
 ```
 sudo cp tag /usr/local/bin
