@@ -5,7 +5,7 @@
 Create tags to identify specific release version
 
 
-<img src="tag_demo.gif" width="500" />
+<img src="./assets/tag_demo.gif" width="500" />
 
 
 </div>
@@ -82,6 +82,11 @@ Associated tag version : 0.2.0
 
 ---------------------------
 ```
+
+- Find releases 
+<img src="./assets/releases_1.png"/>
+<img src="./assets/releases_2.png"/>
+
 
 
 
