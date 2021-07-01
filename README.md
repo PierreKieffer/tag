@@ -2,7 +2,7 @@
 <div align="center">
 
 
-Create tags to identify specific release version
+Git utility to create tags in order to identify specific releases
 
 
 <img src="./assets/tag_demo.gif" width="500" />
