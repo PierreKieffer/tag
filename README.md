@@ -39,6 +39,9 @@ Select release type :
 [ 3 ] patch
 > 1
 Release type : major
+```
+
+```
 Create and push tag with version : 1.2.0
 Do you want to continue ? [Y/n]
 Create tag 1.2.0 ...
