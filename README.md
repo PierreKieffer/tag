@@ -87,7 +87,9 @@ Associated tag version : 0.2.0
 
 <div align="center">
 
-<img src="./assets/releases_1.png" width="300" />
+<img src="./assets/releases_1.png" width="400" />
+
+
 
 <img src="./assets/releases_2.png" width="500"/>
 
