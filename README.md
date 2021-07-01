@@ -5,7 +5,7 @@
 Create tags to identify specific release version
 
 
-<img src="tag_demo.gif", width="500" />
+<img src="tag_demo.gif" width="500" />
 
 
 </div>
