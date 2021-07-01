@@ -91,7 +91,7 @@ Associated tag version : 0.2.0
 
 
 
-<img src="./assets/releases_2.png" width="500"/>
+<img src="./assets/releases_2.png" width="600"/>
 
 </div>
 
