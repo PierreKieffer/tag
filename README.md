@@ -19,7 +19,10 @@ Create tags to identify specific release version
 Tag version format : `MAJOR.MINOR.PATCH`. 
 
 ## Usage
-- Add `tag` to PATH
+- Add `tag` to PATH, for example : 
+```
+sudo cp tag /usr/local/bin
+```
 
 - Steps : 
 ```
