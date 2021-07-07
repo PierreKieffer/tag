@@ -29,8 +29,8 @@ function select_release_type(){
 	fi 
 }
 
-# Get last version 
-LAST_VERSION=`git describe --abbrev=0 --tags 2>/dev/null`
+# Get last version, scan tags across all known branches
+LAST_VERSION=`git describe --abbrev=0 --tags $(git rev-list --tags --max-count=1) 2>/dev/null`
 if [ ! "$LAST_VERSION" = "" ]; then 
 	echo "Latest tag released : $LAST_VERSION"
 	echo ""
