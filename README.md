@@ -5,7 +5,7 @@
 Git utility to create tags in order to identify specific releases
 
 
-<img src="./assets/tag_demo.gif" width="500" />
+<img src="./tag_demo.gif" width="500" />
 
 
 </div>
